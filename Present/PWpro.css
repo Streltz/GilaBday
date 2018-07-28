@@ -1,0 +1,13 @@
+html {
+    background-color: rgb(137, 117, 211);
+    background-image: url('https://www.pinterest.com/pin/226517056228022869/');
+    
+    font-family: Brush Script MT;
+    font-weight: 300;
+    font-size: 7rem;
+}
+
+.bday {
+    padding-top: 15%;
+    color: rgb(253, 180, 23);
+}
